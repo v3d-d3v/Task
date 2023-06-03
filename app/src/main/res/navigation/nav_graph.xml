@@ -7,7 +7,7 @@
 
   <fragment
       android:id="@+id/mainScreenFragment"
-      android:name="co.ssup.task.ui.fragments.MainScreenFragment"
+      android:name="co.ssup.task.ui.fragments.mainScreen.MainScreenFragment"
       android:label="fragment_main_screen"
       tools:layout="@layout/fragment_main_screen" >
     <action
@@ -20,7 +20,7 @@
   </fragment>
   <fragment
       android:id="@+id/detailScreenFragment"
-      android:name="co.ssup.task.ui.fragments.DetailScreenFragment"
+      android:name="co.ssup.task.ui.fragments.detailScreen.DetailScreenFragment"
       android:label="DetailScreenFragment" >
     <argument
         android:name="post"

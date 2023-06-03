@@ -1,4 +1,4 @@
-package co.ssup.task.ui.fragments
+package co.ssup.task.ui.fragments.mainScreen
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
